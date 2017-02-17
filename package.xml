@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package>
-  <name>cse_190_assi_2</name>
+  <name>particle_filter</name>
   <version>0.0.0</version>
-  <description>The cse_190_assi_2 package</description>
+  <description>Particle filter package</description>
 
-  <maintainer email="srsivara@todo.todo">SAKTHI</maintainer>
+  <maintainer email="henry.gaudet@yahoo.com">Henry Gaudet</maintainer>
 
 
-  <license>TODO</license>
+  <license>GPL</license>
 
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
